@@ -1,4 +1,4 @@
-Program Hello;
+Program Hello; //hi
         Uses Crt;
         Begin
             ClrScr;
